@@ -1,0 +1,9 @@
+streamlit==1.36.0
+pandas==2.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+praat-parselmouth==0.4.4
+librosa==0.10.2.post1
+antropy==0.1.6
+xgboost==2.1.1
+nolds==0.6.0
